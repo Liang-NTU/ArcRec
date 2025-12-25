@@ -1,9 +1,9 @@
 # ArcRec
 
-## data
+# Data
 Please download from https://drive.google.com/file/d/12SInZExk6NihNM2PTnCiAseSVVZ6JDRX/view?usp=sharing
 
-# recommendation
+# Recommendation
 main.py: entry script
 
 For example:
